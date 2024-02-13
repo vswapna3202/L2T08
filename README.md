@@ -16,7 +16,7 @@ This task involves generating specific graphs from the Cars93.csv dataset and an
 2. **Running the Notebooks**
     - Clone this repository to your local machine using:
 ```
-        git clone https://github.com/vswapna3202/L2T08
+        git clone https://github.com/vswapna3202/L2T08.git
 ```
     - Navigate to the task's folder:
         ```
